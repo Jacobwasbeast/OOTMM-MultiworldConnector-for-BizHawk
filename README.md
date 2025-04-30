@@ -10,8 +10,8 @@ A lightweight external tool that allows seamless communication with the Ocarina 
 
 ## Requirements
 
-- [BizHawk Emulator 2.10] (https://tasvideos.org/BizHawk/ReleaseHistory#Bizhawk210)
-- [OOTMM Multiworld Client] (https://ootmm.com/multiplayer) running and configured 
+- [BizHawk Emulator 2.10](https://tasvideos.org/BizHawk/ReleaseHistory#Bizhawk210)
+- [OOTMM Multiworld Client](https://ootmm.com/multiplayer) running and configured 
 
 ## Installation
 
